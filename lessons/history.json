@@ -1,0 +1,41 @@
+[
+  {
+    "topic": "Data analysis",
+    "slug": "data_analysis",
+    "saved_at": 1774834867,
+    "folder": "lessons/data_analysis",
+    "sources": [
+      "https://www.geeksforgeeks.org/data-analysis/data-analysis-tutorial/",
+      "https://livedocs.com/blog/learning-data-analytics-step-by-step-beginners-guide",
+      "https://dev.to/uzrkhatri29/data-analytics-101-a-step-by-step-guide-for-absolute-beginners-2pb2",
+      "https://www.tutorialspoint.com/data_analytics/index.htm",
+      "https://www.youtube.com/watch?v=D5Wx-pPWy9s"
+    ]
+  },
+  {
+    "topic": "docker networking",
+    "slug": "docker_networking",
+    "saved_at": 1774828744,
+    "folder": "lessons/docker_networking",
+    "sources": [
+      "https://docs.docker.com/engine/network/",
+      "https://tutorials.technology/tutorials/docker-container-networking.html",
+      "https://www.geeksforgeeks.org/devops/basics-of-docker-networking/",
+      "https://spacelift.io/blog/docker-networking",
+      "https://www.datacamp.com/tutorial/docker-networking"
+    ]
+  },
+  {
+    "topic": "Python decorators",
+    "slug": "python_decorators",
+    "saved_at": 1774827583,
+    "folder": "lessons/python_decorators",
+    "sources": [
+      "https://realpython.com/primer-on-python-decorators/",
+      "https://www.geeksforgeeks.org/python/python-decorators-a-complete-guide/",
+      "https://www.w3schools.com/python/python_decorators.asp",
+      "https://www.learnpython.org/en/Decorators",
+      "https://pythonbasics.org/decorators/"
+    ]
+  }
+]
