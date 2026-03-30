@@ -3,7 +3,7 @@ Tech Teacher Phone App
 
 A lightweight local web app that helps users learn technology topics by automatically researching the web and generating structured study materials.
 
-This project is designed to run on a phone-friendly Linux terminal environment and open in a browser on the same device. A user enters a topic such as **Python decorators**, **Docker networking**, or **Linux permissions**, and the app generates:
+This project is designed to run on a phone friendly Linux terminal environment and open in a browser on the same device. A user enters a topic such as **Python decorators**, **Docker networking**, or **Linux permissions**, and the app generates:
 
 - lesson notes
 - an ASCII learning diagram
